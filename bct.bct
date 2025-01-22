@@ -1,0 +1,13 @@
+table-name           'Boundary Section : 8'
+contents             'Uniform             '
+location             'channel             '
+time-function        'non-equidistant'
+reference-time       20181001
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'total discharge (t)  end B'               unit '[m3/s]'
+records-in-table     2
+ 0.0000000e+000 -1.0000000e+001  9.9999900e+002
+ 2.1038400e+006 -1.0000000e+001  9.9999900e+002

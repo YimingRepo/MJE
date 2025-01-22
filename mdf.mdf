@@ -1,0 +1,132 @@
+Ident  = #Delft3D-FLOW 3.59.01.57433#
+Commnt =                  
+Runtxt = #MJE#
+Filcco = #small.grd#
+Anglat =  0.0000000e+000
+Grdang =  0.0000000e+000
+Filgrd = #small.enc#
+MNKmax = 107 291 1
+Thick  =  1.0000000e+002
+Commnt =                  
+Fildep = #small.dep#
+Commnt =                  
+Commnt =                 no. dry points: 0
+Commnt =                 no. thin dams: 253
+Filtd  = #td01.thd#
+Commnt =                  
+Itdate = #2018-10-01#
+Tunit  = #M#
+Tstart =  0.0000000e+000
+Tstop  =  2.1038400e+006
+Dt     = 0.5
+Tzone  = 0
+Commnt =                  
+Sub1   = #  W #
+Sub2   = # CW#
+Namc1  = #Sediment_sand       #
+Namc2  = #Sediment_clay       #
+Commnt =                  
+Wnsvwp = #N#
+Filwnd = #wnd.wnd#
+Wndint = #Y#
+Commnt =                  
+Zeta0  =  0.0000000e+000
+C01    =  0.0000000e+000
+C02    =  0.0000000e+000
+Commnt =                  
+Commnt =                 no. open boundaries: 8
+Filbnd = #bnds.bnd#
+FilbcT = #bct.bct#
+Filana = #bca.bca#
+FilbcC = #bcc.bcc#
+Rettis =  1.2000000e+002
+          1.2000000e+002
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+Rettib =  1.2000000e+002
+          1.2000000e+002
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+Commnt =                  
+Ag     =  9.8100000e+000
+Rhow   =  1.0250000e+003
+Tempw  =  1.5000000e+001
+Salw   =  3.1000000e+001
+Rouwav = #FR84#
+Wstres =  6.3000000e-004  0.0000000e+000  7.2300000e-003  1.0000000e+002  7.2300000e-003  1.0000000e+002
+Rhoa   =  1.0000000e+000
+Betac  =  5.0000000e-001
+Equili = #N#
+Ktemp  = 0
+Fclou  =  0.0000000e+000
+Sarea  =  0.0000000e+000
+Temint = #Y#
+Commnt =                  
+Roumet = #M#
+Ccofu  =  2.9000000e-002
+Ccofv  =  2.9000000e-002
+Xlo    =  0.0000000e+000
+Vicouv =  1.0000000e+000
+Dicouv =  1.0000000e+001
+Htur2d = #N#
+Irov   = 0
+Filsed = #sed.sed#
+Filmor = #mor.mor#
+Commnt =                  
+Iter   =      2
+Dryflp = #YES#
+Dpsopt = #MAX#
+Dpuopt = #MOR#
+Dryflc =  1.0000000e-001
+Dco    = -9.9900000e+002
+Tlfsmo =  6.0000000e+001
+ThetQH =  0.0000000e+000
+Forfuv = #Y#
+Forfww = #N#
+Sigcor = #N#
+Trasol = #Cyclic-method#
+Momsol = #Cyclic#
+Commnt =                  
+Commnt =                 no. discharges: 0
+Commnt =                 no. observation points: 12
+Filsta = #obs.obs#
+Commnt =                 no. drogues: 0
+Commnt =                  
+Commnt =                  
+Commnt =                 no. cross sections: 0
+Commnt =                  
+SMhydr = #YYYYY#     
+SMderv = #YYYYYY#    
+SMproc = #YYYYYYYYYY#
+PMhydr = #YYYYYY#    
+PMderv = #YYY#       
+PMproc = #YYYYYYYYYY#
+SHhydr = #YYYY#      
+SHderv = #YYYYY#     
+SHproc = #YYYYYYYYYY#
+SHflux = #YYYY#      
+PHhydr = #YYYYYY#    
+PHderv = #YYY#       
+PHproc = #YYYYYYYYYY#
+PHflux = #YYYY#      
+Flmap  =  0.0000000e+000 1440  2.1038400e+006
+Flhis  =  0.0000000e+000 60  2.1038400e+006
+Flpp   =  0.0000000e+000 60  2.1038400e+006
+Flrst  = 525600
+Commnt =                  
+Online = #N#
+WaveOL = #Y#
+Trtrou = #Y#
+Trtdef = #veg_2019.tdf#
+Trtv   = #veg_2019.taf#
+Trtu   = #veg_2019.taf#
+TrtDt  = 2
+Commnt =                  
